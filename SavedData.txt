@@ -1,4 +1,0 @@
-Hours to minutes: 120
-Minutes to Hours: 0.55
-Seconds to minutes: 755.4
-Minutes to seconds: 1980
