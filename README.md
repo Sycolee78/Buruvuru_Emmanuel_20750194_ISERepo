@@ -1,3 +1,3 @@
-# Buruvuru_Emmanuel_20750194_ISERepo
+# Buruvuru_Emmanuel_20750194_ISErepo
 
-#Git repo for the ISE assignment for semester two
+#Git repository for the ISE assignment for semester two
