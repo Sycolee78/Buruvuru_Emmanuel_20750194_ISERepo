@@ -128,7 +128,7 @@ class category:
         return conversion 
 
 if __name__ == '__main__': 
-    string = input("Enter a String to convert: ")
+    string = input("Enter a String to convert: ")       
     a = category.valid_number(string)
 
     print("The string converted is -> ", a)  
