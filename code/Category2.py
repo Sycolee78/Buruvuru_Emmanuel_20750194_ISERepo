@@ -7,37 +7,25 @@
 
 class category2: 
 
-    def HourstoMinutes(time: int):
+    def HrsToMinMinToSec(time: int):   #mutiplying time 
 
         conversion = time * 60
 
         return conversion 
 
-    def MinuestoHours(time: int): 
+    def MinToHrsSecToMin(time: int):  #divinding time 
 
         conversion = time / 60
 
         return conversion
 
-    def MinutestoSecond(time: int): 
-
-        conversion = time * 60
-
-        return conversion 
-
-    def secondstoMinutes(time: int): 
-
-        convesion  = time / 60 
-
-        return convesion
-
 def saveData(filename, Hours, Minutes, Seconds):
     success = True 
 
-    a = category2.MinuestoHours(Minutes) 
-    b = category2.MinutestoSecond(Minutes)
-    c = category2.secondstoMinutes(Seconds)
-    d = category2.HourstoMinutes(Hours)
+    a = category2.MinToHrsSecToMin(Minutes) 
+    b = category2.HrsToMinMinToSec(Minutes)
+    c = category2.MinToHrsSecToMin(Seconds)
+    d = category2.HrsToMinMinToSec(Hours)
 
     
     try:
