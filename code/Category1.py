@@ -11,7 +11,7 @@ class category:
 
     def UppertoLower(string: str) : 
         
-        a = string.upper()
+        a = string.upper() s
         
         return a
 
