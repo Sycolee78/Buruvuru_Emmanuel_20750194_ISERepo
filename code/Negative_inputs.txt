@@ -1,0 +1,4 @@
+Hours to minutes: input a positive int
+Minutes to Hours: input a positive int
+Seconds to minutes: 60.0
+Minutes to seconds: input a positive int

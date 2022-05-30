@@ -1,0 +1,4 @@
+Hours to minutes: 120
+Minutes to Hours: 1.0
+Seconds to minutes: Number should not be zero
+Minutes to seconds: 3600
