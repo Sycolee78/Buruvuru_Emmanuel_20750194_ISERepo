@@ -42,7 +42,7 @@ class testCategory1(unittest.TestCase):
         assert "True" == Category1.NumericsinStrings(string3)
         assert "True" == Category1.NumericsinStrings(string4)
  
-    def testNumericsinstring(self): 
+    def testisStringValid_number(self): 
 
         #testing with a valid number 
         captureOut = io.StringIO()
@@ -62,7 +62,7 @@ class testCategory1(unittest.TestCase):
         sys.stdout = sys.__stdout__
         sys.stdin = sys.__stdin__
 
-        #testing with a valid number that containds letters 
+        #testing with a valid number that contains a letter
         captureOut = io.StringIO()
         sys.stdout = captureOut
         sys.stdin = io.StringIO("10.e")
