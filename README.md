@@ -1,4 +1,4 @@
-#Buruvuru_Emmanuel_20750194_ISErepo
+#Buruvuru_Emmanuel_20750194_ISEassignment
 #Author Emmanuel Buruvuru 
 #Date: 27/05/2022 
 #Description: Git repository for the ISE assignment for semester two
