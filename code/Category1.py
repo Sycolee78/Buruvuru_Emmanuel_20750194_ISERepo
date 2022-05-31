@@ -1,6 +1,6 @@
 #
 #Author : Emmanuel Buruvuru
-#Catergorey1.py : for the version control of the assignment 
+#Catergorey1.py : for String conversion and manipulation.
 #Refrences: 
 #
 
