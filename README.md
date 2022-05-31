@@ -26,4 +26,7 @@ Buruvuru_Emmanuel_20750194_Report.pdf - A report on the ISE assignment two in pd
 
 PNGimages - screashots for testing functions to input in report for more clarity of the testing implementation and results.
 
+# .git File
+
+git local repository for the version control of the assignment. 
 
